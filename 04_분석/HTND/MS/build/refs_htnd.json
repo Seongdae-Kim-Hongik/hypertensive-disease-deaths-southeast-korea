@@ -1,0 +1,604 @@
+{
+ "adair2024assessing": {
+  "type": "journal",
+  "authors": [
+   "Adair T",
+   "Li H",
+   "Rao C"
+  ],
+  "title": "Assessing the Accuracy of Reporting of Hypertension on Death Certificates in Australia",
+  "journal": "Am J Hypertens",
+  "year": 2024,
+  "vol": "37",
+  "issue": "12",
+  "pages": "948-952",
+  "doi": "10.1093/ajh/hpae108",
+  "pmid": "39135538",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "basu2019association": {
+  "type": "journal",
+  "authors": [
+   "Basu S",
+   "Berkowitz SA",
+   "Phillips RL",
+   "Bitton A",
+   "Landon BE",
+   "Phillips RS"
+  ],
+  "title": "Association of Primary Care Physician Supply With Population Mortality in the United States, 2005-2015",
+  "journal": "JAMA Intern Med",
+  "year": 2019,
+  "vol": "179",
+  "issue": "4",
+  "pages": "506-514",
+  "doi": "10.1001/jamainternmed.2018.7624",
+  "pmid": "30776056",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "choi2011deprivation": {
+  "type": "journal",
+  "authors": [
+   "Choi MH",
+   "Cheong KS",
+   "Cho BM",
+   "Hwang IK",
+   "Kim CH",
+   "Kim MH",
+   "Hwang SS",
+   "Lim JH",
+   "Yoon TH"
+  ],
+  "title": "Deprivation and mortality at the town level in Busan, Korea: an ecological study",
+  "journal": "J Prev Med Public Health",
+  "year": 2011,
+  "vol": "44",
+  "issue": "6",
+  "pages": "242-248",
+  "doi": "10.3961/jpmph.2011.44.6.242",
+  "pmid": "22143174",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "cirerasuarez2012review": {
+  "type": "journal",
+  "authors": [
+   "Cirera Suárez L",
+   "Martínez López C",
+   "Navarro Sánchez C"
+  ],
+  "title": "[Review of mortality from hypertensive disease and diabetes mellitus after the error because of new death certificate: region of Murcia, Spain, 2009]",
+  "journal": "Rev Esp Salud Publica",
+  "year": 2012,
+  "vol": "86",
+  "issue": "3",
+  "pages": "229-240",
+  "doi": "10.1590/S1135-57272012000300003",
+  "pmid": "22991080",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "cornelissen2013exercise": {
+  "type": "journal",
+  "authors": [
+   "Cornelissen VA",
+   "Smart NA"
+  ],
+  "title": "Exercise training for blood pressure: a systematic review and meta-analysis",
+  "journal": "J Am Heart Assoc",
+  "year": 2013,
+  "vol": "2",
+  "issue": "1",
+  "pages": "e004473",
+  "doi": "10.1161/JAHA.112.004473",
+  "pmid": "23525435",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "dupont2022spatial": {
+  "type": "journal",
+  "authors": [
+   "Dupont E",
+   "Wood SN",
+   "Augustin NH"
+  ],
+  "title": "Spatial+: a novel approach to spatial confounding",
+  "journal": "Biometrics",
+  "year": 2022,
+  "vol": "78",
+  "issue": "4",
+  "pages": "1279-1290",
+  "doi": "10.1111/biom.13656",
+  "pmid": "35258102",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "ettehad2016blood": {
+  "type": "journal",
+  "authors": [
+   "Ettehad D",
+   "Emdin CA",
+   "Kiran A",
+   "Anderson SG",
+   "Callender T",
+   "Emberson J",
+   "Chalmers J",
+   "Rodgers A",
+   "Rahimi K"
+  ],
+  "title": "Blood pressure lowering for prevention of cardiovascular disease and death: a systematic review and meta-analysis",
+  "journal": "Lancet",
+  "year": 2016,
+  "vol": "387",
+  "issue": "10022",
+  "pages": "957-967",
+  "doi": "10.1016/S0140-6736(15)01225-8",
+  "pmid": "26724178",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "gbd2025global": {
+  "type": "journal",
+  "authors": [
+   "Global Burden of Cardiovascular Diseases and Risks 2023 Collaborators"
+  ],
+  "title": "Global, Regional, and National Burden of Cardiovascular Diseases and Risk Factors in 204 Countries and Territories, 1990-2023",
+  "journal": "J Am Coll Cardiol",
+  "year": 2025,
+  "vol": "86",
+  "issue": "22",
+  "pages": "2167-2243",
+  "doi": "10.1016/j.jacc.2025.08.015",
+  "pmid": "40990886",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "inskip1983methods": {
+  "type": "journal",
+  "authors": [
+   "Inskip H",
+   "Beral V",
+   "Fraser P",
+   "Haskey J"
+  ],
+  "title": "Methods for age-adjustment of rates",
+  "journal": "Stat Med",
+  "year": 1983,
+  "vol": "2",
+  "issue": "4",
+  "pages": "455-466",
+  "doi": "10.1002/sim.4780020404",
+  "pmid": "6672943",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "kang2015korea": {
+  "type": "journal",
+  "authors": [
+   "Kang YW",
+   "Ko YS",
+   "Kim YJ",
+   "Sung KM",
+   "Kim HJ",
+   "Choi HY",
+   "Sung C",
+   "Jeong E"
+  ],
+  "title": "Korea Community Health Survey data profiles",
+  "journal": "Osong Public Health Res Perspect",
+  "year": 2015,
+  "vol": "6",
+  "issue": "3",
+  "pages": "211-217",
+  "doi": "10.1016/j.phrp.2015.05.003",
+  "pmid": "26430619",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "khang2019life": {
+  "type": "journal",
+  "authors": [
+   "Khang YH",
+   "Bahk J"
+  ],
+  "title": "Why is Life Expectancy in Busan Shorter than in Seoul? Age and Cause-Specific Contributions to the Difference in Life Expectancy between Two Cities",
+  "journal": "Yonsei Med J",
+  "year": 2019,
+  "vol": "60",
+  "issue": "7",
+  "pages": "687-693",
+  "doi": "10.3349/ymj.2019.60.7.687",
+  "pmid": "31250583",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "kim2022trends": {
+  "type": "journal",
+  "authors": [
+   "Kim E",
+   "Baek J",
+   "Kim M",
+   "Lee H",
+   "Bae JW",
+   "Kim HC"
+  ],
+  "title": "Trends in regional disparity in cardiovascular mortality in Korea, 1983-2019",
+  "journal": "Korean Circ J",
+  "year": 2022,
+  "vol": "52",
+  "issue": "11",
+  "pages": "829-843",
+  "doi": "10.4070/kcj.2022.0156",
+  "pmid": "36347519",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "knorrheld2000bayesian": {
+  "type": "journal",
+  "authors": [
+   "Knorr-Held L"
+  ],
+  "title": "Bayesian modelling of inseparable space-time variation in disease risk",
+  "journal": "Stat Med",
+  "year": 2000,
+  "vol": "19",
+  "issue": "17-18",
+  "pages": "2555-2567",
+  "doi": "10.1002/1097-0258(20000915/30)19:17/18<2555::aid-sim587>3.0.co;2-#",
+  "pmid": "10960871",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "kong2025dose": {
+  "type": "journal",
+  "authors": [
+   "Kong J",
+   "Kim S",
+   "Son Y",
+   "Kim S",
+   "Jang W",
+   "Yim Y",
+   "Kim HJ",
+   "Jo H",
+   "Park J",
+   "Lee K",
+   "Lee H",
+   "Pizzol D",
+   "Kang J",
+   "Woo S",
+   "Hwang J",
+   "Yon DK"
+  ],
+  "title": "Dose-response association between physical activity and diagnosed hypertension in 2.4 million Korean population: Korea Community Health Survey 2009-2022",
+  "journal": "Clin Hypertens",
+  "year": 2025,
+  "vol": "31",
+  "issue": "",
+  "pages": "e3",
+  "doi": "10.5646/ch.2025.31.e3",
+  "pmid": "39944934",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "lee2016application": {
+  "type": "journal",
+  "authors": [
+   "Lee YR",
+   "Kim YA",
+   "Park SY",
+   "Oh CM",
+   "Kim YE",
+   "Oh IH"
+  ],
+  "title": "Application of a Modified Garbage Code Algorithm to Estimate Cause-Specific Mortality and Years of Life Lost in Korea",
+  "journal": "J Korean Med Sci",
+  "year": 2016,
+  "vol": "31 Suppl 2",
+  "issue": "Suppl 2",
+  "pages": "S121-S128",
+  "doi": "10.3346/jkms.2016.31.S2.S121",
+  "pmid": "27775249",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "lee2019temporal": {
+  "type": "journal",
+  "authors": [
+   "Lee H",
+   "Park S",
+   "Kim HC"
+  ],
+  "title": "Temporal and Geospatial Trends of Hypertension Management in Korea: a Nationwide Study 2002-2016",
+  "journal": "Korean Circ J",
+  "year": 2019,
+  "vol": "49",
+  "issue": "6",
+  "pages": "514-527",
+  "doi": "10.4070/kcj.2018.0358",
+  "pmid": "30808085",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "lewington2002age": {
+  "type": "journal",
+  "authors": [
+   "Lewington S",
+   "Clarke R",
+   "Qizilbash N",
+   "Peto R",
+   "Collins R"
+  ],
+  "title": "Age-specific relevance of usual blood pressure to vascular mortality: a meta-analysis of individual data for one million adults in 61 prospective studies",
+  "journal": "Lancet",
+  "year": 2002,
+  "vol": "360",
+  "issue": "9349",
+  "pages": "1903-1913",
+  "doi": "10.1016/s0140-6736(02)11911-8",
+  "pmid": "12493255",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "lim2014trends": {
+  "type": "journal",
+  "authors": [
+   "Lim D",
+   "Ha M",
+   "Song I"
+  ],
+  "title": "Trends in the leading causes of death in Korea, 1983-2012",
+  "journal": "J Korean Med Sci",
+  "year": 2014,
+  "vol": "29",
+  "issue": "12",
+  "pages": "1597-1603",
+  "doi": "10.3346/jkms.2014.29.12.1597",
+  "pmid": "25469057",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "morgenstern1995ecologic": {
+  "type": "journal",
+  "authors": [
+   "Morgenstern H"
+  ],
+  "title": "Ecologic studies in epidemiology: concepts, principles, and methods",
+  "journal": "Annu Rev Public Health",
+  "year": 1995,
+  "vol": "16",
+  "issue": "",
+  "pages": "61-81",
+  "doi": "10.1146/annurev.pu.16.050195.000425",
+  "pmid": "7639884",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "ncdrisc2021worldwide": {
+  "type": "journal",
+  "authors": [
+   "NCD Risk Factor Collaboration (NCD-RisC)"
+  ],
+  "title": "Worldwide trends in hypertension prevalence and progress in treatment and control from 1990 to 2019: a pooled analysis of 1201 population-representative studies with 104 million participants",
+  "journal": "Lancet",
+  "year": 2021,
+  "vol": "398",
+  "issue": "10304",
+  "pages": "957-980",
+  "doi": "10.1016/S0140-6736(21)01330-1",
+  "pmid": "34450083",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "oh2025cause": {
+  "type": "journal",
+  "authors": [
+   "Oh JH",
+   "Seo J",
+   "Park HJ"
+  ],
+  "title": "Cause of death statistics in 2022 in the Republic of Korea",
+  "journal": "Ewha Med J",
+  "year": 2025,
+  "vol": "48",
+  "issue": "3",
+  "pages": "e46",
+  "doi": "10.12771/emj.2025.00689",
+  "pmid": "40739971",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "park2016spatial": {
+  "type": "journal",
+  "authors": [
+   "Park SY",
+   "Kwak JM",
+   "Seo EW",
+   "Lee KS"
+  ],
+  "title": "Spatial analysis of the regional variation of hypertensive disease mortality and its socio-economic correlates in South Korea",
+  "journal": "Geospat Health",
+  "year": 2016,
+  "vol": "11",
+  "issue": "2",
+  "pages": "420",
+  "doi": "10.4081/gh.2016.420",
+  "pmid": "27245801",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "piantadosi1988ecological": {
+  "type": "journal",
+  "authors": [
+   "Piantadosi S",
+   "Byar DP",
+   "Green SB"
+  ],
+  "title": "The ecological fallacy",
+  "journal": "Am J Epidemiol",
+  "year": 1988,
+  "vol": "127",
+  "issue": "5",
+  "pages": "893-904",
+  "doi": "10.1093/oxfordjournals.aje.a114892",
+  "pmid": "3282433",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "riebler2016intuitive": {
+  "type": "journal",
+  "authors": [
+   "Riebler A",
+   "Sørbye SH",
+   "Simpson D",
+   "Rue H"
+  ],
+  "title": "An intuitive Bayesian spatial model for disease mapping that accounts for scaling",
+  "journal": "Stat Methods Med Res",
+  "year": 2016,
+  "vol": "25",
+  "issue": "4",
+  "pages": "1145-1165",
+  "doi": "10.1177/0962280216660421",
+  "pmid": "27566770",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "shuaib2012awareness": {
+  "type": "journal",
+  "authors": [
+   "Shuaib FM",
+   "Durant RW",
+   "Parmar G",
+   "Brown TM",
+   "Roth DL",
+   "Hovater M",
+   "Halanych JH",
+   "Shikany JM",
+   "Howard G",
+   "Safford MM"
+  ],
+  "title": "Awareness, treatment and control of hypertension, diabetes and hyperlipidemia and area-level mortality regions in the Reasons for Geographic and Racial Differences in Stroke (REGARDS) study",
+  "journal": "J Health Care Poor Underserved",
+  "year": 2012,
+  "vol": "23",
+  "issue": "2",
+  "pages": "903-921",
+  "doi": "10.1353/hpu.2012.0045",
+  "pmid": "22643632",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "snyder2014redistribution": {
+  "type": "journal",
+  "authors": [
+   "Snyder ML",
+   "Love SA",
+   "Sorlie PD",
+   "Rosamond WD",
+   "Antini C",
+   "Metcalf PA",
+   "Hardy S",
+   "Suchindran CM",
+   "Shahar E",
+   "Heiss G"
+  ],
+  "title": "Redistribution of heart failure as the cause of death: the Atherosclerosis Risk in Communities Study",
+  "journal": "Popul Health Metr",
+  "year": 2014,
+  "vol": "12",
+  "issue": "1",
+  "pages": "10",
+  "doi": "10.1186/1478-7954-12-10",
+  "pmid": "24716810",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "sulo2024heart": {
+  "type": "journal",
+  "authors": [
+   "Sulo G",
+   "Lycke Ellingsen C",
+   "Sulo E",
+   "Naghavi M",
+   "Vollset SE"
+  ],
+  "title": "Heart failure describing the underlying cause of death: a misconception, lack of information on the true underlying causes, or both?",
+  "journal": "Scand J Public Health",
+  "year": 2024,
+  "vol": "52",
+  "issue": "2",
+  "pages": "152-158",
+  "doi": "10.1177/14034948221137123",
+  "pmid": "36468773",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "vonelm2007strengthening": {
+  "type": "journal",
+  "authors": [
+   "von Elm E",
+   "Altman DG",
+   "Egger M",
+   "Pocock SJ",
+   "Gøtzsche PC",
+   "Vandenbroucke JP"
+  ],
+  "title": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies",
+  "journal": "PLoS Med",
+  "year": 2007,
+  "vol": "4",
+  "issue": "10",
+  "pages": "e296",
+  "doi": "10.1371/journal.pmed.0040296",
+  "pmid": "17941714",
+  "verified": "PubMed esummary 2026-11-08"
+ },
+ "bell2015explaining": {
+  "type": "journal",
+  "authors": [
+   "Bell A",
+   "Jones K"
+  ],
+  "title": "Explaining fixed effects: random effects modeling of time-series cross-sectional and panel data",
+  "journal": "Polit Sci Res Methods",
+  "year": 2015,
+  "vol": "3",
+  "issue": "1",
+  "pages": "133-153",
+  "doi": "10.1017/psrm.2014.7",
+  "verified": "Crossref 2026-11-08"
+ },
+ "rue2009approximate": {
+  "type": "journal",
+  "authors": [
+   "Rue H",
+   "Martino S",
+   "Chopin N"
+  ],
+  "title": "Approximate Bayesian inference for latent Gaussian models by using integrated nested Laplace approximations",
+  "journal": "J R Stat Soc Series B Stat Methodol",
+  "year": 2009,
+  "vol": "71",
+  "issue": "2",
+  "pages": "319-392",
+  "doi": "10.1111/j.1467-9868.2008.00700.x",
+  "verified": "Crossref 2026-11-08"
+ },
+ "simpson2017penalising": {
+  "type": "journal",
+  "authors": [
+   "Simpson D",
+   "Rue H",
+   "Riebler A",
+   "Martins TG",
+   "Sørbye SH"
+  ],
+  "title": "Penalising model component complexity: a principled, practical approach to constructing priors",
+  "journal": "Stat Sci",
+  "year": 2017,
+  "vol": "32",
+  "issue": "1",
+  "pages": "1-28",
+  "doi": "10.1214/16-sts576",
+  "verified": "Crossref 2026-11-08"
+ },
+ "web:kostat2026cause": {
+  "type": "web",
+  "authors": "Statistics Korea",
+  "title": "Causes of death statistics: deaths by cause (104 items), sex and administrative district (DT_1B34E13) and by cause, sex and 5-year age group (DT_1B34E01), 2011-2024. Korean Statistical Information Service",
+  "url": "https://kosis.kr",
+  "year": 2026,
+  "accessed": "6 November 2026"
+ },
+ "web:mois2026population": {
+  "type": "web",
+  "authors": "Ministry of the Interior and Safety",
+  "title": "Resident registration population by district, sex and 5-year age group, 2011-2024",
+  "url": "https://jumin.mois.go.kr",
+  "year": 2026,
+  "accessed": "20 October 2026"
+ },
+ "web:rcore2026": {
+  "type": "web",
+  "authors": "R Core Team",
+  "title": "R: a language and environment for statistical computing. Version 4.6.0. Vienna: R Foundation for Statistical Computing",
+  "url": "https://www.R-project.org/",
+  "year": 2026,
+  "accessed": "20 October 2026"
+ }
+}

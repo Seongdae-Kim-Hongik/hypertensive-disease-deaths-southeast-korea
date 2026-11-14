@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Hypertensive disease deaths, blood pressure care indicators and death certification across Korean districts: analysis code"
+authors:
+  - family-names: Kim
+    given-names: Seongdae
+    affiliation: Hongik University
+version: "1.0.0"
+date-released: 2026-11-14
+license: MIT
+repository-code: "https://github.com/Seongdae-Kim-Hongik/hypertensive-disease-deaths-southeast-korea"
+doi: "10.5281/zenodo.24210468"

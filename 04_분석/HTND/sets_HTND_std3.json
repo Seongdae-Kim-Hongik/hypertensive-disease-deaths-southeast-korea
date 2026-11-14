@@ -1,0 +1,166 @@
+{
+ "tag": "HTND",
+ "outcome_column": "mort__고혈압성질환_deaths",
+ "outcome_label_en": "Hypertensive disease deaths (I10-I13, Statistics Korea cause-of-death statistics, annual, place of residence)",
+ "disease_en": "Hypertensive disease mortality",
+ "disease_ko": "고혈압성질환 사망",
+ "forced": [
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구",
+  "eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000)",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)",
+  "ext__pop80_share"
+ ],
+ "negative_controls": [
+  "eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100)",
+  "eloc__DT_1YL20331__지수__계",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)"
+ ],
+ "offset_E_column": "E_std2",
+ "offset_E_file": "HTND_Estd2.csv",
+ "offset_E_label": "age-standardised E, 18 five-year bands to 85+ (E_std2, national cause-specific death rates)",
+ "graph": "593-edge contact graph (BRCA 2026-11-04 graph_audit), ST_GRAPH=04_분석/HTND/graph_593.graph",
+ "population_override": [
+  {
+   "year": 2023,
+   "fbd_region": "경상남도창원시",
+   "population": 1009038,
+   "source": "KOSIS DT_1YL20651E 2023 통합창원시 계; FBD_DATA_ZIP/2023.csv 창원 블록이 2022값 복사(유방암 11/4 population_final_audit)"
+  }
+ ],
+ "sensitivity_only_extra": [
+  "ext__outside_care_share",
+  "ext__ill_defined_share",
+  "kchs__DT_117075_DIE_LOW_SALT_1__SR"
+ ],
+ "sets": {
+  "S1_narrative_full": [
+   "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율",
+   "kchs__DT_HYPER_DOCTOR_DRUG__SR",
+   "kchs__DT_117075_HYPER_AWAR__SR",
+   "chk__대사_복부비만_비율",
+   "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율",
+   "kchs__DT_117075_H_DR_HIGH_WH__SR",
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total",
+   "ext__basic_livelihood_rate",
+   "ext__im_specialists_per100k",
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)"
+  ],
+  "S2_bp_control_cascade": [
+   "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율",
+   "kchs__DT_HYPER_DOCTOR_DRUG__SR",
+   "kchs__DT_117075_HYPER_AWAR__SR"
+  ],
+  "S3_cardiometabolic_risk": [
+   "chk__대사_복부비만_비율",
+   "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율",
+   "kchs__DT_117075_H_DR_HIGH_WH__SR"
+  ],
+  "S4_activity": [
+   "kchs__DT_H_EX_WALK__SR",
+   "kchs__DT_H_EX_PHY__SR",
+   "fac__total"
+  ],
+  "S5_structural_access": [
+   "ext__basic_livelihood_rate",
+   "ext__im_specialists_per100k",
+   "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)"
+  ],
+  "S6_core": [
+   "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율",
+   "kchs__DT_HYPER_DOCTOR_DRUG__SR",
+   "kchs__DT_H_EX_WALK__SR",
+   "ext__basic_livelihood_rate",
+   "ext__im_specialists_per100k"
+  ]
+ },
+ "transform": {
+  "eloc__DT_1YL20421E__1인당도시지역면적현황__도시지역인구": "share_of_pop(도시지역인구÷population(마스터))",
+  "eloc__DT_1YL20981__인구천명당의료기관종사의사수＜br＞(A÷B×1000)": "none",
+  "eloc__DT_1YL20701__남녀성비＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL20891__재정자주도(세입과목개편전)": "none",
+  "ext__pop80_share": "none",
+  "eloc__DT_1YL13901__뺑소니교통사고율＜br＞(A÷B×100)": "none",
+  "eloc__DT_1YL20331__지수__계": "none",
+  "eloc__DT_1YL21081__주민만명당화재발생건수＜br＞(A÷B×10000)": "none",
+  "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율": "none",
+  "kchs__DT_HYPER_DOCTOR_DRUG__SR": "none",
+  "kchs__DT_117075_HYPER_AWAR__SR": "none",
+  "kchs__DT_117075_DIE_LOW_SALT_1__SR": "none",
+  "chk__대사_복부비만_비율": "none",
+  "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율": "none",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "none",
+  "kchs__DT_H_EX_WALK__SR": "none",
+  "kchs__DT_H_EX_PHY__SR": "none",
+  "fac__total": "per100k",
+  "ext__basic_livelihood_rate": "none",
+  "ext__im_specialists_per100k": "none",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "none",
+  "ext__outside_care_share": "none",
+  "ext__ill_defined_share": "none"
+ },
+ "expected_direction": {
+  "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율": "+ (검진 측정 혈압 기반 고혈압 질환의심: 치료받지 않거나 조절되지 않은 높은 혈압 → 고혈압성 심장·신장 질환 사망)",
+  "kchs__DT_HYPER_DOCTOR_DRUG__SR": "- (고혈압 진단자 치료율: 항고혈압 치료가 고혈압 표적장기 손상·사망 감소)",
+  "kchs__DT_117075_HYPER_AWAR__SR": "- (혈압수치 인지율: 인지·관리 연쇄의 첫 단계)",
+  "kchs__DT_117075_DIE_LOW_SALT_1__SR": "- (저염선호율: 나트륨 섭취 감소 → 혈압·심혈관 사망 감소) — 민감도 전용(Z5, 2011-2019 관측 연도)",
+  "chk__대사_복부비만_비율": "+ (검진 측정 복부비만: 고혈압·좌심실비대·만성콩팥병 위험)",
+  "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율": "+ (검진 측정 공복혈당 기반 당뇨 의심: 고혈압성 신장·심장 질환 동반 위험)",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "+ (고위험음주: 혈압 상승·용량 반응)",
+  "kchs__DT_H_EX_WALK__SR": "- (걷기 실천: 혈압 저하·심혈관 사망 감소)",
+  "kchs__DT_H_EX_PHY__SR": "- (중강도 신체활동: 혈압 저하)",
+  "fac__total": "- (공공체육시설 밀도: 신체활동 환경)",
+  "ext__basic_livelihood_rate": "+ (박탈: 혈압 관리·치료 지속 낮음)",
+  "ext__im_specialists_per100k": "- (내과 전문의: 고혈압 진단·치료·합병증 관리 역량)",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "+ (독거노인: 복약 지속·진료 접근 낮음, 고립)"
+ },
+ "evidence": {
+  "chk__질환의심_고혈압당뇨_고혈압_수검자대비비율": "lewington2002age; ettehad2016blood",
+  "kchs__DT_HYPER_DOCTOR_DRUG__SR": "ettehad2016blood; ncdrisc2019long",
+  "kchs__DT_117075_HYPER_AWAR__SR": "ncdrisc2019long; kim2024korea",
+  "kchs__DT_117075_DIE_LOW_SALT_1__SR": "he2013effect; strazzullo2009salt",
+  "chk__대사_복부비만_비율": "jayedi2018anthropometric; hall2015obesity",
+  "chk__질환의심_고혈압당뇨_당뇨병_수검자대비비율": "emdin2015blood",
+  "kchs__DT_117075_H_DR_HIGH_WH__SR": "roerecke2017effect",
+  "kchs__DT_H_EX_WALK__SR": "cornelissen2013exercise; pescatello2015exercise",
+  "kchs__DT_H_EX_PHY__SR": "cornelissen2013exercise",
+  "fac__total": "sallis2016physical",
+  "ext__basic_livelihood_rate": "schultz2018socioeconomic; kim2024area",
+  "ext__im_specialists_per100k": "shi2005primary",
+  "eloc__DT_1YL12701__독거노인가구비율＜br＞(A÷B×100)": "valtorta2016loneliness"
+ },
+ "rules": {
+  "likelihood": "forced-only 모형 WAIC 낮은 쪽(Poisson/NB)",
+  "set_choice": "WAIC 최소, 4 이내면 변수 적은 세트",
+  "credible": "95% CrI 1 제외",
+  "vif_drop": 10,
+  "multiverse_specs": 200,
+  "main_model_note": "Principal model = S1_narrative_full (12 district characteristics + 5 forced controls). VIF>10 retained and reported."
+ },
+ "note": "Covariates selected from the epidemiology of hypertensive disease mortality: blood pressure care cascade (screening-measured suspected hypertension, treatment among diagnosed hypertension, blood pressure awareness), cardiometabolic risk (screening abdominal obesity and suspected diabetes, high-risk drinking), physical activity (walking, moderate activity, public sports facilities) and structure and access (basic livelihood recipients, internal medicine specialists, older adults living alone). Low-salt preference (surveyed to 2019) is used only in a 2011-2019 sensitivity analysis. Death-certification sensitivity analyses (88z_htnd_coding.R): ill-defined cause share, all circulatory deaths as outcome, out-of-district outpatient share.",
+ "extra_columns": {
+  "ext__pop80_share": [
+   "HTND_Estd2.csv",
+   "pop80_share_raw"
+  ],
+  "ext__basic_livelihood_rate": [
+   "EXT_canonical_pool_HTND_261108.csv",
+   "basic_livelihood_rate"
+  ],
+  "ext__im_specialists_per100k": [
+   "EXT_canonical_pool_HTND_261108.csv",
+   "im_specialists_per100k"
+  ],
+  "ext__ill_defined_share": [
+   "EXT_canonical_pool_HTND_261108.csv",
+   "ill_defined_share"
+  ],
+  "ext__outside_care_share": [
+   "EXT_canonical_pool_261106.csv",
+   "outside_care_share"
+  ]
+ },
+ "pool_note": "Additional indicators from the harmonized district panel were reviewed; those without a mechanism for hypertensive disease mortality were not used."
+}
