@@ -194,7 +194,7 @@ def fix_orphans(path, heads, max_iter=10):
 
 HIGHLIGHTS = ["Age-standardized hypertensive disease mortality fell less than circulatory mortality",
               "In the principal model, all 16 Busan districts were residual hot spots",
-              "Adding screening blood pressure, treatment, and awareness did not reduce the excess",
+              "Adding blood pressure care and other district indicators did not reduce the excess",
               "Busan also had excess deaths from other circulatory diseases",
               "Adjusting for ill-defined causes of death attenuated, but did not remove, the excess"]
 
